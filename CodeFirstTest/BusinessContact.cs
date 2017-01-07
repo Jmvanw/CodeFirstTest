@@ -9,7 +9,7 @@ namespace CodeFirstTest
     {
         public int Id { get; set; }
         public string BusPhone { get; set; }
-        public string BusAddress { get; set; }
+        public string BusState { get; set; }
         public List<Business> Businesses { get; set; }
     }
 }

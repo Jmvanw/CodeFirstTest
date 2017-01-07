@@ -9,8 +9,8 @@ namespace CodeFirstTest
     {
         public List<Business> GetBusinesses()
         {
-            BusinessDBContext businessDbContext = new BusinessDBContext();
-            return businessDbContext.Businesses.ToList();
+            BusinessDBContext businessDBContext = new BusinessDBContext();
+            return businessDBContext.Businesses.ToList();       //BusinessContact.Include("Businesses").ToList();
         }
 
     }

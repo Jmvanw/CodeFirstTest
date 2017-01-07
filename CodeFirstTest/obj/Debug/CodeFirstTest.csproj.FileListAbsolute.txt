@@ -48,7 +48,6 @@ C:\C#Programs\CodeFirstTest\CodeFirstTest\bin\Microsoft.ApplicationInsights.xml
 C:\C#Programs\CodeFirstTest\CodeFirstTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\C#Programs\CodeFirstTest\CodeFirstTest\obj\Debug\CodeFirstTest.dll
 C:\C#Programs\CodeFirstTest\CodeFirstTest\obj\Debug\CodeFirstTest.pdb
-C:\C#Programs\CodeFirstTest\CodeFirstTest\obj\Debug\CodeFirstTest.csprojResolveAssemblyReference.cache
 C:\C#Programs\CodeFirstTest\CodeFirstTest\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
 C:\C#Programs\CodeFirstTest\CodeFirstTest\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
 C:\C#Programs\CodeFirstTest\CodeFirstTest\bin\Microsoft.AspNetCore.Http.Abstractions.dll
@@ -89,3 +88,4 @@ C:\C#Programs\CodeFirstTest\CodeFirstTest\bin\Microsoft.Extensions.Primitives.xm
 C:\C#Programs\CodeFirstTest\CodeFirstTest\bin\Microsoft.Net.Http.Headers.xml
 C:\C#Programs\CodeFirstTest\CodeFirstTest\bin\System.Runtime.CompilerServices.Unsafe.xml
 C:\C#Programs\CodeFirstTest\CodeFirstTest\bin\System.Text.Encodings.Web.xml
+C:\C#Programs\CodeFirstTest\CodeFirstTest\obj\Debug\CodeFirstTest.csprojResolveAssemblyReference.cache
